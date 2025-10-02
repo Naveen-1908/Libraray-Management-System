@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run LMS Main",
+      "request": "launch",
+      "mainClass": "LMS.Main",
+      "cwd": "${workspaceFolder}/build/classes"
+    }
+  ]
+}
